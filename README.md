@@ -1,2 +1,2 @@
 # The-Data-Scientist-s-Toolbox
-## First class content
+## First class - assignment and content
